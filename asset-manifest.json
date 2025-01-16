@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Electronics/static/css/main.421902f2.css",
+    "main.js": "/Electronics/static/js/main.cbe8a0d6.js",
+    "static/media/logo.svg": "/Electronics/static/media/logo.4ac2a67dfaa753b511ee4ad41d50fbe1.svg",
+    "index.html": "/Electronics/index.html",
+    "main.421902f2.css.map": "/Electronics/static/css/main.421902f2.css.map",
+    "main.cbe8a0d6.js.map": "/Electronics/static/js/main.cbe8a0d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.421902f2.css",
+    "static/js/main.cbe8a0d6.js"
+  ]
+}
